@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787380489261",
+    "project_id": "bhukkad-iitr",
+    "storage_bucket": "bhukkad-iitr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787380489261:android:7f6fde524fe2b003ee3ca4",
+        "android_client_info": {
+          "package_name": "com.bhukkadiitr.bhukkad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR_WLItlKDhmh34UbSi4WDJSo8287Edvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
